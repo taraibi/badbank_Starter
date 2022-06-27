@@ -17,10 +17,10 @@ Install packages:
 
 ### `npm install`
 
-Run in development mode:
+
 ### `npm start`
 
-Build for production:
+To build for deployment/prod
 ### `npm run build`
 
 ## Screenshots
@@ -31,11 +31,12 @@ Build for production:
 
 - React
 - Javascript
+- bootstrap 5
 
 
 ## Features 
 
-- Create Account, Login/Logout, Deposit and Withdraw Funds, Responsive Layout using Bootstrap 5
+- Create Accounts Login/Logout, Deposit/Withdraw Funds
 
 
 ## License 
