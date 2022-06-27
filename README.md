@@ -23,7 +23,7 @@ Build for production:
 
 ## Screenshots
 
-![](https://giphy.com/gifs/dQRvWYIOLATfkoR7sB)
+![](https://media.giphy.com/media/dQRvWYIOLATfkoR7sB/giphy.gif)
 
 ## Technology used:
 
