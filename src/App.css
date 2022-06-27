@@ -1,0 +1,10 @@
+/* active page color */
+.active {
+  color: rgb(240, 167, 71) !important;
+}
+
+body {
+  background-color: lightpink;
+  opacity: 0.85;
+}
+
