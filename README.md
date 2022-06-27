@@ -21,11 +21,14 @@ Run in development mode:
 Build for production:
 ### `npm run build`
 
+## Screenshots
 
+![](https://giphy.com/gifs/dQRvWYIOLATfkoR7sB)
 
 ## Technology used:
 
 - React
+- Javascript
 
 
 ## Features 
