@@ -13,6 +13,8 @@ A poor banking app with no authentication implemented, to be refactored at anoth
 
 
 Install packages:
+### `git clone`
+
 ### `npm install`
 
 Run in development mode:
